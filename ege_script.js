@@ -382,7 +382,7 @@
       '<div class="ege-lesson-chip">' + safeLessonBadge + '</div>' +
       '<div class="ege-video-wrap">' +
       // TODO: if Kinescope embed URL provided, replace src below with real embed-url
-      '<iframe src="https://kinescope.io/3zrN3JYGZQXeYrTiYyhtZM" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>' +
+      '<iframe src="https://kinescope.io/wUyXvs9pv5gsZSrs5NCj4L" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>' +
       '</div>' +
       '<div class="ege-modal-footer">' +
       '<button class="ege-btn" data-action="prev-lesson"' + (prevDisabled ? ' disabled' : '') + '>Предыдущий</button>' +
